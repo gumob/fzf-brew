@@ -91,7 +91,6 @@ function fzf-brew() {
     if [[ $res ]]; then
         for prog in $(echo $res); do; brew upgrade $prog; done;
     fi
-    fi
   }
 
   local fzf-brew-upgrade-cask() {
