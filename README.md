@@ -17,10 +17,10 @@ This is a shell plugin that allows you to execute [`homebrew`](https://github.co
 
 ## Installation
 
-### Download [fzf-brew](https://github.com/gumob/fzf-brew) to your home directory
+### Download [fzf-brew](https://github.com/futamura/fzf-brew) to your home directory
 
 ```shell
-wget -O ~/.fzfbrew https://raw.githubusercontent.com/gumob/fzf-brew/main/fzf-brew.sh
+wget -O ~/.fzfbrew https://raw.githubusercontent.com/futamura/fzf-brew/main/fzf-brew.sh
 ```
 
 ### Using key bindings
